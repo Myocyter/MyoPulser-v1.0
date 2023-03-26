@@ -1,2 +1,2 @@
 # MyoPulser-v1.0
-Software for the MyoPulser
+Publication, building instructions, as well as all necessary codes for the MyoPulser v.1.0
